@@ -1,0 +1,18 @@
+# Colcon build artifacts
+build/
+install/
+log/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# ROS2 workspace settings
+.rosinstall
+
+# VS Code settings
+.vscode/
+
+# General Git ignore patterns
+.DS_Store
+Thumbs.db

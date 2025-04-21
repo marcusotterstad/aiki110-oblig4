@@ -1,0 +1,2 @@
+int8 venstre_motor_bevegelse
+int8 hoyre_motor_bevegelse
